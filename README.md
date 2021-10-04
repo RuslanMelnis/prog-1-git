@@ -1,1 +1,0 @@
-# mans pirms git projekts
